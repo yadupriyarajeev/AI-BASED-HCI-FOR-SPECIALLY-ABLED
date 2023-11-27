@@ -1,33 +1,4 @@
 # Touchless-User-Interface-For-Sketching-Using-Hand-Gesture-Recognition
-The study presents a solution for a hand identification system for air application sketching. The experimental accuracy is 98.48 percent, which meets real-world requirements. Traditional writing and teaching approaches may be challenged by this system. 
-<h1 align="center">Hi 👋, I'm Ajith Kumar M</h1>
-<h3 align="center">A passionate web developer from Tamil Nadu</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitharunai&label=Profile%20views&color=0e75b6&style=flat" alt="ajitharunai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
-
-  👨‍View Project [Touchless User Interface For Sketching Using Hand Gesture Recognition![image](https://medium.com/@ajitharunai/touchless-user-interface-for-sketching-using-hand-gesture-recognition-a11e463c1ce5)
-- 🔭 I’m currently working on [Web Desing தமிழ்](https://ajitharunai.github.io/Web-design-in-Tamil-Learning-Web-page/)
-
-- 🌱 I’m currently learning **Machine Learning | Deep Learning | React Js | Portfolio**
-
-- 👯 I’m looking to Job
-
-- 🤝 I’m looking for help with [I-Grow Association | AEC](https://arunai-cse.blogspot.com/)
-
-- 👨‍💻 All of my projects are available at [https://ajicreations.blogspot.com/](https://ajitharunai.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@ajitharunai](https://ajicreations.blogspot.com/)
-
-- 💬 Ask me about **Portfolio| Blogger| Web Development**
-
-- 📫 How to reach me **ajithkumaraec10@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Lbgl40T6iOI7C5sNyYa1FNeiBhrbjMtr/view?usp=sharing](https://drive.google.com/file/d/1Lbgl40T6iOI7C5sNyYa1FNeiBhrbjMtr/view?usp=sharing)
-
-- ⚡ Fun fact **“One struggle I’ve had that has made me who I am is….”**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ajitharunai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajitharunai" height="30" width="40" /></a>
